@@ -21,6 +21,9 @@ I believe in challenges because they make better projects best. Call me a tech n
   👯 I’m looking to collaborate on projects based on <b>Web</b> & <b> Android.</b>
 
 
+![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karankartikeya&theme=dark&hide_langs_below=1)
+<br/>
+
 ![Karan's github stats](https://github-readme-stats.vercel.app/api?username=karankartikeya&show_icons=true&hide_border=true)
 <br />
 
