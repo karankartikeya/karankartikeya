@@ -6,6 +6,9 @@
 <a href="mailto:karankartikey72@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+<a href="https://dev.to/karankartikeya">
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
  
 <br />
 
