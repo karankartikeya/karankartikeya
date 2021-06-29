@@ -34,11 +34,8 @@ I believe in challenges because they make better projects best. Call me a tech n
 ![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karankartikeya&theme=dark&hide_langs_below=1)
 <br/>
 
-<p align=center >
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img height=175 align="center" src="https://github-readme-stats-lac-five.vercel.app/api?username=karankartikeya&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight">
-  </a>
-</p>
+![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karankartikeya&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
 
 
 <br/>
