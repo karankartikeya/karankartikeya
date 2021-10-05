@@ -21,10 +21,9 @@ I believe in challenges because they make better projects best. Call me a tech n
 
  <p align="center"> <img src="assets/coder.gif" alt="codergif" /> </p>   
 
- 🔭 I’m currently working on : 
-  - An ERP portal 💬 for a local organisation.
+ 🔭 
  
- 🌱 I’m currently learning : [ReactJs](https://reactjs.org/), [Docker](https://www.docker.com/)
+ 🌱 I’m currently learning : [Flask](https://flask.palletsprojects.com/en/2.0.x/), [Docker](https://www.docker.com/)
  
   👯 I’m looking to collaborate on projects based on <b>Web</b> & <b> Android.</b>
     
