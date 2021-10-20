@@ -25,7 +25,7 @@ I believe in challenges because they make better projects best. Call me a tech n
  
  🌱 I’m currently learning : [Flask](https://flask.palletsprojects.com/en/2.0.x/), [Docker](https://www.docker.com/)
  
-  👯 I’m looking to collaborate on projects based on <b>Web</b> & <b> Android.</b>
+  👯 
     
    
 
