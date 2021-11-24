@@ -29,7 +29,7 @@ I believe in challenges because they make better projects best. Call me a tech n
    
 
 
-[![Kaiwalya's github activity graph](https://activity-graph.herokuapp.com/graph?username=karankartikeya&theme=xcode)]
+
 <br/>
 
 ![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karankartikeya&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
