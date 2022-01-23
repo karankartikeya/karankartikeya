@@ -33,7 +33,7 @@ I believe in challenges because they make better projects best. Call me a tech n
 
 <br/>
 
-![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karankartikeya&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karankartikeya"  display=block width=100% height=auto alt="3" align="right">
 
 
 
