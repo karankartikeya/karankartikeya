@@ -33,7 +33,16 @@ I believe in challenges because they make better projects best. Call me a tech n
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karankartikeya"  display=block width=100% height=auto alt="3" align="right">
+<table>
+    <tr>
+        <td>
+            <img src="https://github-profile-trophy.vercel.app/?username=karankartikeya&no-frame=true&theme=flat&no-bg=true&column=3&row=3"  display=block width=100% height=auto  alt="1" >
+        </td>
+        <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=karankartikeya"  display=block width=100% height=auto alt="3" align="right">
+        </td>
+    </tr>
+</table> 
 
 
 
