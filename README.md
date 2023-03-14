@@ -44,12 +44,7 @@ I believe in challenges because they make better projects best. Call me a tech n
     </tr>
 </table> 
 
-
-
 <br/>
-
-
-
 
 
 <!--
