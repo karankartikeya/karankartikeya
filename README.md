@@ -23,7 +23,7 @@ I believe in challenges because they make better projects best. Call me a tech n
 
  🔭 
  
- 🌱 I’m currently learning : [Kubernetes](https://kubernetes.io/)
+ 🌱 I’m currently learning :
  
   👯 
     
