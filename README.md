@@ -2,6 +2,7 @@
 
 
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Karan](https://karankartikeya.netlify.app/) 
+📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/karankartikeya/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -16,20 +17,17 @@
 
  
 ### About Me 🚀
-I am pursuing B.tech CS🎓 from GRAPHIC ERA HILL UNIVERSITY DEHRADUN. I am a passionate Full Stack Web Developer👨‍💻. </br>
-I believe in challenges because they make better projects best. Call me a tech nerd but that's who I am. If you come up with something interesting, I am always ready to share my views and work on them. </br>
+I'm currently pursuing masters in Cognitive Systems from Ulm University, Germany.
+I'm an entrepreneur and determined full-stack developer with a passion for creating innovative digital solutions. With expertise in both frontend and backend technologies, I focus on building scalable, user-centered products. Driven by curiosity and an entrepreneurial mindset, I thrive on solving complex challenges and turning ideas into successful ventures.</br>
 
  <p align="center"> <img src="assets/coder.gif" alt="codergif" /> </p>   
 
  🔭 
  
  🌱 I’m currently learning :
- 
-  👯 
-    
-   
 
-
+   1. Golang for backend.
+   2. PostgreSQL branching using NeoDb
 
 <br/>
 
