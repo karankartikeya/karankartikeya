@@ -1,7 +1,7 @@
 <p align="center"> <img src="assets/hello.gif" alt="hello" /> </p>
 
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Karan](https://karankartikeya.netlify.app/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Karan,
 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/karankartikeya/">
@@ -23,9 +23,9 @@ I'm an entrepreneur and determined full-stack developer with a passion for creat
  <p align="center"> <img src="assets/coder.gif" alt="codergif" /> </p>   
 
  ### 🔭 Currently Building:
-   1. 7Svar: An online music ed-tech startup for easy music learning facility to everyone at an affordable pricing
-   2. Czar: A website development agency which takes your idea from design to production with growth at every step
-   3. V2blog (inProgress) : A Saas application, which enables you to upload video and convert it to high quality SEO-optimized blog articles.
+   1. [7Svar](https://7svar.tech): An online music ed-tech startup for easy music learning facility to everyone at an affordable pricing. Currently implementing AI model using Whisper from OpenAI for better learning experience.
+   2. [Czar](https://czar7.netlify.app): A website development agency which bring visions to life by designing and developing high-performance websites tailored to your needs.
+   3. [V2Blogs](https://v2blogs.netlify.app) (inProgress) : A Saas application, which enables you to upload video and convert it to high quality SEO-optimized blog articles.
  
  🌱 I’m currently learning :
 
