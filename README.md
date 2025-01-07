@@ -23,14 +23,10 @@ I'm an entrepreneur and determined full-stack developer with a passion for creat
  <p align="center"> <img src="assets/coder.gif" alt="codergif" /> </p>   
 
  ### 🔭 Currently Building:
-   1. [7Svar](https://7svar.tech): An online music ed-tech startup for easy music learning facility to everyone at an affordable pricing. Currently implementing AI model using Whisper from OpenAI for better learning experience.
-   2. [Czar](https://czar7.netlify.app): A website development agency which bring visions to life by designing and developing high-performance websites tailored to your needs.
-   3. [V2Blogs](https://v2blogs.netlify.app) (inProgress) : A Saas application, which enables you to upload video and convert it to high quality SEO-optimized blog articles.
- 
- 🌱 I’m currently learning :
 
-   1. Golang for backend.
-   2. PostgreSQL branching using NeoDb
+ 1. Building something cool (Stay Tuned)
+ 
+ 
 
 <br/>
 
