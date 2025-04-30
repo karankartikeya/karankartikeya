@@ -24,7 +24,8 @@ I'm an entrepreneur and determined full-stack developer with a passion for creat
 
  ### 🔭 Currently Building:
 
- 1. Building: RuheApp ( a mental-health focused social media platform)
+ 1. Building: RuheApp (a mental-health focused social media platform)
+ 2. Building : Collegify (All in one app for organising college events)
  
  
 
