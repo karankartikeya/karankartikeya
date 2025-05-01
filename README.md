@@ -22,10 +22,15 @@ I'm an entrepreneur and determined full-stack developer with a passion for creat
 
  <p align="center"> <img src="assets/coder.gif" alt="codergif" /> </p>   
 
+ ### 🔭 Currently Learning:
+ [Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/)
+
+ 
+
  ### 🔭 Currently Building:
 
- 1. Building: RuheApp (a mental-health focused social media platform)
- 2. Building : Collegify (All in one app for organising college events)
+ 1. Building: [RuheApp](https://ruheapp.netlify.app) (a mental-health focused social media platform) - Launch not yet set
+ 2. Building : [Collegify](https://collegifyy.netlify.app/events/create) (All in one app for organising college events)- Launching Soon(In May '25)
  
  
 
