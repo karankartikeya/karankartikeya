@@ -29,9 +29,7 @@ I'm an entrepreneur and determined full-stack developer with a passion for creat
 
  ### 🔭 Currently Building:
 
- 1. Building: [RuheApp](https://ruheapp.netlify.app) (a mental-health focused social media platform) - Launch not yet set
- 2. Building : [Collegify](https://collegifyy.netlify.app/events/create) (All in one app for organising college events)- Launching Soon(In May '25)
- 
+ 1. Building: [SlideCoach](https://slidecoach.ai): SlideCoach AI analyzes your presentations, provides real-time feedback on pronunciation, pacing, and clarity
  
 
 <br/>
