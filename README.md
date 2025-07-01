@@ -55,6 +55,7 @@ I am Karan Kartikeya, CTO @[SlideCoach](https://slidecoach.ai). <br/>I'm current
 ## 📈 Stats
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=karankartikeya&show_icons=true&theme=tokyonight" />
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=karankartikeya&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Karan's github stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=karankartikeya&theme=tokyonight" />
 </p>
