@@ -8,8 +8,7 @@ I am Karan Kartikeya, CTO @[SlideCoach](https://slidecoach.ai). <br/>I'm current
 [![Linkedin Badge](https://img.shields.io/badge/-karankartikeya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karankartikeya/)](https://www.linkedin.com/in/karankartikeya/)
 
 [![Gmail Badge](https://img.shields.io/badge/-karan@slidecoach.ai-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karan@slidecoach.ai)](mailto:karan@slidecoach.ai)
-
-[![Kaiwalya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karankartikeya&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Karan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karankartikeya&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ⚡ Technologies
 
