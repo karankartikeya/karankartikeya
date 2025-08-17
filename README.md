@@ -60,3 +60,15 @@ I am Karan Kartikeya, CTO @[SlideCoach](https://slidecoach.ai). <br/>I'm current
   <img width="68%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karankartikeya&theme=solarized" />
 
 </p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
