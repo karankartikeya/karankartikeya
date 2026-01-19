@@ -3,8 +3,15 @@
 ## Hi, I am Karan! Great to see you here! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 I am Karan Kartikeya, CTO @[SlideCoach](https://slidecoach.ai). <br/>I'm currently pursuing masters in Cognitive Systems from Ulm University, Germany.
-<br/>I'm an entrepreneur and determined full-stack developer with a passion for creating innovative digital solutions. With expertise in both frontend and backend technologies, I focus on building scalable, user-centered products. Driven by curiosity and an entrepreneurial mindset, I thrive on solving complex challenges and turning ideas into successful ventures. Find out more about me & feel free to connect with me here:
+<br/>I'm an entrepreneur and determined full-stack developer with a passion for creating innovative digital solutions. With expertise in both frontend and backend technologies, I focus on building scalable, user-centered products. Driven by curiosity and an entrepreneurial mindset, I thrive on solving complex challenges and turning ideas into successful ventures. 
+</br>
 
+Visit my side projects: 
+[Ilovepdfdoc](https://ilovepdfdoc.com)
+
+</br>
+
+Find out more about me & feel free to connect with me here:
 [![Linkedin Badge](https://img.shields.io/badge/-karankartikeya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karankartikeya/)](https://www.linkedin.com/in/karankartikeya/)
 
 [![Gmail Badge](https://img.shields.io/badge/-karan@slidecoach.ai-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karan@slidecoach.ai)](mailto:karan@slidecoach.ai)
