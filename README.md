@@ -6,8 +6,69 @@ I am Karan Kartikeya, CTO @[SlideCoach](https://slidecoach.ai). <br/>I'm current
 <br/>I'm an entrepreneur and determined full-stack developer with a passion for creating innovative digital solutions. With expertise in both frontend and backend technologies, I focus on building scalable, user-centered products. Driven by curiosity and an entrepreneurial mindset, I thrive on solving complex challenges and turning ideas into successful ventures. 
 </br>
 
-Visit my side projects: 
-[Ilovepdfdoc](https://ilovepdfdoc.com)
+## 🚀 Featured Projects
+
+### Startups & Products
+
+### 🎤 [SlideCoach](https://slidecoach.ai)
+AI-powered presentation coach for practicing presentations, receiving live feedback, audience questions, and interview simulations using multimodal LLM systems.
+
+**Built with:** Next.js, NestJS, FastAPI, AWS, Redis, OpenAI/Claude  
+**Focus:** Real-time AI systems · Speech + Vision · EdTech
+
+---
+
+### 🧠 [Engram](https://github.com/karankartikeya/engram)
+Open-source Python library for causal reasoning and knowledge graph experimentation.
+
+**Built with:** Python, NetworkX, ML  
+**Focus:** Causal AI · Research Tools · Open Source
+
+---
+
+### 📄 [Ilovepdfdoc](https://ilovepdfdoc.com)
+Productivity platform for document processing and PDF utilities.
+
+**Focus:** SaaS · SEO Growth · Utility Products
+
+---
+
+### 💳 7Svar
+Built and scaled B2B software pilots generating $15K+ revenue.
+
+**Focus:** Payments · SaaS · B2B Systems
+
+---
+
+## 🔬 Experiments & Side Projects
+
+### 🤖 AI Job Copilot
+LLM-powered job discovery assistant matching opportunities from LinkedIn based on user preferences.
+
+---
+
+### 🌿 Sustainability Workflow Orchestrator
+Hackathon project using Kestra for sustainability-oriented workflow automation.
+
+---
+
+### 💬 Mental Wellness Social Platform (Ruhe)
+Social platform concept centered around psychology-driven engagement and wellbeing.
+
+---
+
+### 🧠 Multimodal Presentation Feedback Research
+Exploring proprietary models for presentation intelligence using slides, transcript and audio.
+
+---
+
+## 🌍 Open Source & Engineering Projects
+
+- Go microservices starter templates (Gin + Redis + PostgreSQL)
+- Real-time WebSocket systems with Next.js + Go
+- AWS Bedrock / Claude integrations
+- Presentation feedback ML pipelines
+- CI/CD workflows for distributed multi-service deployments
 
 </br>
 
